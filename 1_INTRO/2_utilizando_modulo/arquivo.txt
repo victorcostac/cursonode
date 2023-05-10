@@ -1,0 +1,3 @@
+olá
+lembrar que tava pedindo pra ler esse arquivo e não estava 
+printando nada, um ano depois lembrei que não tinha digitado nada aqui
