@@ -1,8 +1,7 @@
-import chalk from "chalk"
+const chalk = require('chalk');
 
-chalk.
 
 // import { green } from "chalk"
 
 
-console.log(green('parabens vc está aprovado'))
+console.log(chalk.green('parabens vc está aprovado'))
