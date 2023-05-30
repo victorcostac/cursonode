@@ -1,7 +1,7 @@
 const http = require("http");
 const fs = require('fs')
 const url = require('url')
-const port = 3000;
+const port = 4003;
 
 const server = http.createServer((req, res) =>{
 
@@ -25,8 +25,6 @@ const server = http.createServer((req, res) =>{
             })
         }
     }
-    
-   
    })
 server.listen(port, () => {
     console.log(`Servidor rodando na porta: ${port}`)
