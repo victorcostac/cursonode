@@ -1,7 +1,8 @@
 const http = require("http");
 const fs = require('fs')
 const url = require('url')
-const port = 4003;
+const port = 3000
+
 
 const server = http.createServer((req, res) =>{
 
